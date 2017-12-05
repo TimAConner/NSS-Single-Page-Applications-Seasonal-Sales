@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/TimAConner/NSS-Single-Page-Applications-Seasonal-Sales/issues"
   },
-  "homepage": "https://github.com/TimAConner/NSS-Single-Page-Applications-Seasonal-Sales#readme"
+  "homepage": "https://github.com/TimAConner/NSS-Single-Page-Applications-Seasonal-Sales#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "matchdep": "^2.0.0"
+  }
 }
