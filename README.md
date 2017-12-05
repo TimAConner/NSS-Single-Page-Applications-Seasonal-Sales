@@ -12,7 +12,7 @@ The two JSON representations above should be in two files: products.json, and ca
 
 ## Sample JSON Code
 
-## Sample Products 
+## Products 
 
 ```
 {
@@ -81,7 +81,7 @@ The two JSON representations above should be in two files: products.json, and ca
 }
 ```
 
-## Sample Cateegories
+## Categories
 
 ```
 {
