@@ -1,0 +1,19 @@
+{
+  "name": "nss-single-page-applications-seasonal-sales",
+  "version": "1.0.0",
+  "description": "This was Javascript practice done while attending the [Nashville Software School](http://nashvillesoftwareschool.com/).",
+  "main": "seasonal-sales.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimAConner/NSS-Single-Page-Applications-Seasonal-Sales.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimAConner/NSS-Single-Page-Applications-Seasonal-Sales/issues"
+  },
+  "homepage": "https://github.com/TimAConner/NSS-Single-Page-Applications-Seasonal-Sales#readme"
+}
