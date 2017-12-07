@@ -13,6 +13,7 @@ The two JSON representations above should be in two files: products.json, and ca
 ## How to Contribute
 1. Clone this github
 1. npm install
+1. run 'grunt'
 
 ## Sample JSON Code
 
