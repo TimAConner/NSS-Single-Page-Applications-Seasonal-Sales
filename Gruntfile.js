@@ -36,5 +36,5 @@ module.exports = function(grunt){
     require("matchdep").filter("grunt-*").forEach(grunt.loadNpmTasks);
 
     grunt.registerTask("default", ['jshint', 'sass', 'browserify', 'watch']);//Will do by default when you excecute grunt.
-
+//'jshint',
 }
